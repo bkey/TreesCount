@@ -1,2 +1,2 @@
 # TreesCount
-exploritory data analysis for TreesCount data  
+exploratory data analysis for TreesCount data  
